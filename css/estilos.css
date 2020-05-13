@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://66.media.tumblr.com/ee843139aadcb41fa338d57431c5ee9c/tumblr_oiwyu3PV5S1tf8vylo1_1280.png);
+    background-size: auto;
+    font-family:arial;
+    height: 100vh;
+  }
+  .site-title {
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .menu ul{
+    display:flex;
+    justify-content: space-around;
+    background: Black;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
